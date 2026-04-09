@@ -14,13 +14,13 @@ const NavComponent = () => {
         <Link href="/" className="text-rose-900 border-b border-rose-900 pb-1">
           HOME
         </Link>
-        <Link href="/inventory" className="hover:text-rose-900">
+        <Link href="/Inventory" className="hover:text-rose-900">
           INVENTORY
         </Link>
         <Link href="/marketdays" className="hover:text-rose-900">
           MARKET DAYS
         </Link>
-        <Link href="/classes" className="hover:text-rose-900">
+        <Link href="/Faculty" className="hover:text-rose-900">
           CLASSES
         </Link>
       </div>

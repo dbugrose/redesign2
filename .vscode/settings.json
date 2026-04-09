@@ -16,5 +16,9 @@
       "createTheme(?:<\\w+>)?\\s*\\(([^)]*)\\)",
       "{?\\s?[\\w].*:\\s*?[\"'`]([^\"'`]*).*?,?\\s?}?"
     ]
+  ],
+  "cSpell.words": [
+    "Crystalinventory",
+    "Pearlfaculty"
   ]
 }
