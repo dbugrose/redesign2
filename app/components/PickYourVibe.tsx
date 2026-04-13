@@ -15,7 +15,7 @@ const PickYourVibe = () => {
             </p>
           </div>
 
-          <div className="hidden md:flex items-center gap-4 text-xs tracking-[0.3em] text-gray-400 uppercase">
+          <div className="hidden md:flex items-center gap-4 text-xs text-gray-400 uppercase">
             <span className="w-12 h-px bg-gray-300"></span>
             The Atelier Selection
           </div>
